@@ -45,7 +45,7 @@ public class PrincipalActivity extends AppCompatActivity {
 
     Retrofit retrofit;
     PrevisoesAPI previsoesAPI;
-    
+
     Thread tarefaAtualizacao;
     Handler handler;
 
